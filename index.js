@@ -64,3 +64,7 @@ var power = base(3)(4);
 power
 // var squarResult = power(5);
 // console.log(squarResult)
+function multiply(x, y) {
+    return a * b;
+}
+console.log(multiply(19, 50))
